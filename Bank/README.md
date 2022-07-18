@@ -9,7 +9,7 @@ This project simulated the operation between 100 accounts and their respect oper
 
 This main ejecuted the code
 
-![image](https://user-images.githubusercontent.com/93608793/179619433-6a20b617-6821-4e3a-a29a-6432c84bcd86.png)
+![image](https://user-images.githubusercontent.com/93608793/179620517-c3b3b4be-3b76-4de6-a56e-a0e5116e5cc1.png)
  
  
  ## Bank 
@@ -22,4 +22,5 @@ This main ejecuted the code
 ## TransferEjecution 
 
 This class make all the bank operations and make the threads
+
 ![image](https://user-images.githubusercontent.com/93608793/179619879-79a5ec86-0451-4af4-89d3-3abc35a2165a.png)
