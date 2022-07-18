@@ -8,6 +8,7 @@ This project simulated the operation between 100 accounts and their respect oper
 ## Main 
 
 This main ejecuted the code
+
 ![image](https://user-images.githubusercontent.com/93608793/179619433-6a20b617-6821-4e3a-a29a-6432c84bcd86.png)
  
  
