@@ -11,3 +11,7 @@ This project is coding in Java is about a simulation of three balls to demonstra
 
 This is a simulation of a dinamic in a bank using threads.
 ![image](https://user-images.githubusercontent.com/93608793/179617519-dcd29322-0ae8-4599-96b8-41a622dca424.png)
+
+
+## Created by: 
+Bernardo de la Sierra Rábago
